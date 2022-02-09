@@ -15,7 +15,7 @@
 	<compileSource>1.6</compileSource>
 	<sourceEncoding>ISO-8859-1</sourceEncoding>
 	<maven-compiler-plugin.version>2.3.2</maven-compiler-plugin.version>
-	<hibernate-core.version>3.6.9.Final</hibernate-core.version>
+	<hibernate-core.version>5.4.24.Final</hibernate-core.version>
 	<hibernate-envers.version>3.6.9.Final</hibernate-envers.version>
 	<spring.version>3.0.7.RELEASE</spring.version>
   </properties>
